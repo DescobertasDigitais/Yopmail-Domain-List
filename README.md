@@ -1,5 +1,8 @@
-# Yopmail Domain List
+# 📨 Yopmail Domain List
+<img src="https://files.catbox.moe/gaccg7.png">
 Yopmail is a temporary and disposable email service that allows users to create temporary email addresses and use them without the need for registration. Emails received in these temporary accounts typically last only a few hours before being automatically deleted. This type of service is often used to avoid spam, protect privacy, or sign up for websites that require an email address but may generate a significant volume of unsolicited emails. Yopmail is just one of many services available that offer temporary emails.
+<hr>
+
 ```
 @1xp.fr
 @cpc.cx
